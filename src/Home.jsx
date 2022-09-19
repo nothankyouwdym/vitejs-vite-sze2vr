@@ -2,16 +2,16 @@ import React, { Component } from "react"
 
 
 
-class About extends Component{
+class Home extends Component{
   render(){
     return(
       <div>
-        <h1>About.</h1>
+        <h1>Home</h1>
 
         <p>
           <strong>
             <em>
-              Menu thingy I don't really know it just is.
+              Hi, welcome to some menu thingy.
             </em>
           </strong>
         </p>
@@ -20,5 +20,4 @@ class About extends Component{
   }
 }
 
-
-export default About
+export default Home

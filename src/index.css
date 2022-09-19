@@ -411,6 +411,12 @@ ol li ol {
   margin-bottom: 0;
 }
 
+p{
+  text-align: center;
+  font-family: cursive,cursive;
+  font-size: x-large;
+}
+
 h1,
 h2,
 h3,
@@ -421,6 +427,7 @@ h5 {
   font-family: cursive,cursive;
   line-height: 1.2;
   color: #404040;
+  text-align: center;
 }
 
 h1:not(:first-child),
