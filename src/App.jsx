@@ -1,9 +1,10 @@
 import React, { Component } from "react"
+import Navbar from "./Navbar"
 
 class App extends Component{
   render(){
     return(
-      <h1>Hiii</h1>
+      <Navbar />
     )
   }
 }

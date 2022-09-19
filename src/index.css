@@ -198,6 +198,19 @@ select {
   text-transform: none;
 }
 
+nav{
+  text-align: center;
+}
+
+span{
+  font-family: cursive,cursive;
+  font-size: x-large;
+  inline-size: auto;
+  margin-inline: 2px;
+  padding-inline: 4px;
+  box-sizing: content-box;
+}
+
 /**
  * Correct the inability to style clickable types in iOS and Safari.
  */
@@ -405,7 +418,7 @@ h4,
 h5 {
   margin: 1.5rem 0;
   font-weight: 600;
-  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: cursive,cursive;
   line-height: 1.2;
   color: #404040;
 }
